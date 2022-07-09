@@ -6,4 +6,4 @@ To track the liveliness of a opensource project two components are considered:
 - the amount of commits
 - the size of the commits
 
-To update the database once a day the scripts gets the commit info from the project(s) repository.
+make a dynamic database to be able to adapt new commit charactaristic, make an API constructer to adapt new charactaristics
